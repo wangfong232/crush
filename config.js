@@ -1,12 +1,12 @@
 const CONFIG = {
     introTitle: 'crush à!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao mình cứ đi nhầm đường
-    Lạc vào tim cậu lẻ loi
+    Mà sao cậu cứ đi nhầm đường
+    Lạc vào tim mình lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng mình đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng mình đã say ngay từ lúc thấy nụ cười ấy ',
+    btnIntro: 'hjhj',
+    title: 'Phải chăng cậu đã yêu ngay từ cái nhìn đầu tiên 😙',
+    desc: 'Phải chăng cậu đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Mình thích cậu <33',
     btnNo: 'Không, tụi mình chỉ là bạn :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao cậu lại thích mình <3',
@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'mình thích cậu, cậu có thích mình khum 😘😘',
     messDesc: 'iu cậu quá :3.',
     btnAccept: 'yêu nhau luôn đi <3',
-    messLink: 'http://fb.com/chancewangfong' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://fb.com/chancewangfong'
 }
